@@ -1,0 +1,184 @@
+[
+    {
+        "Title":"Rewind",
+        "ID":"SH000000000129",
+        "Description":"Rewind es un canal chileno de entretenimiento musical que emite su señal vía streaming desde Chile para todo el mundo a través de la app de Roku, en IPTV Chile y en su página web.",
+        "StreamFormat":"hls",
+        "Background":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/rewind-1920x1080-c-1.jpg",
+        "Poster":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/rewind-262x147-c-1.png",
+        "URL":"https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8",
+        "GUID":"45c74294931db4d4e35e8479dbfd5b42",
+        "Category":"TV",
+        "Tags":["Rewind"]
+    },
+
+    {
+        "Title":"Radiónica",
+        "ID":"SH000000000102",
+        "Description":"Estación de radio pública colombiana que emite en FM desde Bogotá, para esta y otras nueve ciudades en Colombia en diferentes frecuencias radiales, las cuales también se pueden escuchar en línea desde la aplicación oficial para dispositivos móviles, su portal en Internet y en la TDT.",
+        "StreamFormat":"hls",
+        "Background":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/radionica-1920x1080-c-1.jpg",
+        "Poster":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/radionica-262x147-c-1.png",
+        "URL":"https://streaming.rtvc.gov.co/Radio_Radionica/Radionica.stream/playlist.m3u8",
+        "GUID":"ec55e373de61cbc7163019ac428c3a3e",
+        "Category":"Radio",
+        "Tags":["Radiónica"]
+    },
+
+    {
+        "Title":"DW (Español)",
+        "ID":"SH000000000071",
+        "Description":"DW (Español) es un canal de televisión por suscripción latinoamericano de origen alemán, filial de la cadena internacional Deutsche Welle para Latinoamérica. Su señal también se recibe en Estados Unidos, Brasil y el Caribe.",
+        "StreamFormat":"hls",
+        "Background":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/dwnoticias-1920x1080-c-1.jpg",
+        "Poster":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/dw-262x147-c-1.png",
+        "URL":"https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+        "GUID":"e39700ded6a8568b8e4fe75642bce41d",
+        "Category":"Internacional",
+        "Tags":["DW (Español)"]
+    },
+
+   {
+        "Title":"La W",
+        "ID":"SH000000000104",
+        "Description":"W Radio Colombia es una estación de radio de programación general, encargada de difundir las voces de colombiana y latinoamerica, perteneciente a Grupo Prisa como filial de Caracol Radio. Comenzó en 1973 como estación contemporánea de adultos Caracol estéreo.",
+        "StreamFormat":"aac",
+        "Background":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/law-1920x1080-c-1.jpg",
+        "Poster":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/law-262x147-c-1.png",
+        "URL":"https://20813.live.streamtheworld.com/WRADIOAAC.aac",
+        "GUID":"4bf020b3f9f100b66f2c1e2d40e87732",
+        "Category":"Radio",
+        "Tags":["La W"]
+    },
+
+    {
+        "Title":"Radiocondor",
+        "ID":"SH000000000109",
+        "Description":"Radiocondor es la emisora Cultural Universitaria de la Fundación para el Desarrollo Educativo de Caldas FUNDECA y la Universidad Autónoma de Manizales.",
+        "StreamFormat":"aac",
+        "Background":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/radiocondor-1920x1080-c-1.jpg",
+        "Poster":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/radiocondor-262x147-c-1.png",
+        "URL":"http://185.250.105.207:2011/stream",
+        "GUID":"7397d2a68999681debeca323a33227c4",
+        "Category":"Radio",
+        "Tags":["Radiocondor"]
+    },
+
+    {
+        "Title":"Emisora Cultural RAC",
+        "ID":"SH000000000110",
+        "Description":"La Emisora Cultural de Pereira 97.7 F.M. es una estación de Radio de Interés Público que emite su señal para el centro – occidente de Colombia, cubriendo 96 municipios del Paisaje Cultural Cafetero, zona declarada por la UNESCO como patrimonio de la humanidad, con espacios musicales, informativos y educativos.",
+        "StreamFormat":"mp3",
+        "Background":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/background-1920x1080-c-1.jpg",
+        "Poster":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/rac-1-262x147-c-1.png",
+        "URL":"http://34.228.78.107:8000/stream",
+        "GUID":"8e38c17dff6ea9aa063a98e4328bfcd1",
+        "Category":"Radio",
+        "Tags":["Emisora Cultural RAC"]
+    },
+
+    {
+        "Title":"Telepacífico",
+        "ID":"SH000000000097",
+        "Description":"Telepacífico es un canal de televisión abierta colombiano, lanzado el 3 de julio de 1988. Fue el tercer canal de índole regional del país, después de Teleantioquia, creado en 1985 y de Telecaribe creado en 1986.",
+        "StreamFormat":"hls",
+        "Background":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/telepacifico-1920x1080-c-1.jpg",
+        "Poster":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/telepacifico-262x147-c-1.png",
+        "URL":"http://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8",
+        "GUID":"1ba27bbb4ccda13c24874d7d2a39a27f",
+        "Category":"Regional",
+        "Tags":["Telepacífico"]
+    },
+
+    {
+        "Title":"Telecaribe",
+        "ID":"SH000000000101",
+        "Description":"Telecaribe es un canal de televisión abierta colombiano que emite en la región Caribe de dicho país. Fue fundado el 28 de abril de 1986 en Valledupar, e iniciando transmisiones permanentes desde ese mismo día desde su centro de emisión ubicado en la ciudad de Barranquilla.",
+        "StreamFormat":"hls",
+        "Background":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/telecaribe-1920x1080-c-1.jpg",
+        "Poster":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/telecaribe-262x147-c-1.png",
+        "URL":"https://tkx.apis.anvato.net/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L%2F9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix%2FL9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg%3D%3D",
+        "GUID":"0253901af6d7934d3ac62c6761ca15f2",
+        "Category":"Regional",
+        "Tags":["Telecaribe"]
+    },
+
+    {
+        "Title":"Canal 1",
+        "ID":"SH000000000090",
+        "Description":"Canal 1 es un canal de televisión abierta colombiano fundado el 13 de junio de 1954 como la primera estación de televisión en el país.",
+        "StreamFormat":"hls",
+        "Background":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/canal1-1920x1080-c-1.jpg",
+        "Poster":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/canal1-262x147-c-1.png",
+        "URL":"https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8",
+        "GUID":"a80b26cd8e9da3be4cc4f0731e9fe623",
+        "Category":"Nacional",
+        "Tags":["Canal 1"]
+    },
+
+    {
+        "Title":"Canal Institucional",
+        "ID":"SH000000000091",
+        "Description":"Canal Institucional es un canal de televisión abierta colombiano lanzado el 2 de febrero de 2004 en sustitución del Canal A después de su fusión con la programadora Audiovisuales.",
+        "StreamFormat":"hls",
+        "Background":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/canalinstitucional-1920x1080-c-1.jpg",
+        "Poster":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/canal_institucional-262x147-c-1.png",
+        "URL":"https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
+        "GUID":"5bc9f35645a5ba812c99378f948dc7d3",
+        "Category":"Nacional",
+        "Tags":["Canal Institucional"]
+    },
+
+    {
+        "Title":"Cosmovisión",
+        "ID":"SH000000000166",
+        "Description":"El Canal Cosmovision es independiente y autónomo y hace de su programación un abanico de contenidos propios con énfasis en los temas de familia, bienestar, cultura, moda, actualidad, noticias, estilo saludable, espiritualidad, gastronomía, farándula y viajeros, entre otros.",
+        "StreamFormat":"hls",
+        "Background":"https://tv.merakweb.co/tv/wp-content/uploads/2021/10/cosmovision_noticias-scaled-1920x1080-c-1.jpg",
+        "Poster":"https://tv.merakweb.co/tv/wp-content/uploads/2021/10/Canal-Cosmovision-p30i8f33ok1vz73cns25iotcha0n536b9ax5qz7veg-262x147-c-1.png",
+        "URL":"https://videohls2.cosmovision.tv/hls/sd.m3u8",
+        "GUID":"4177c4f568d4f358c8a4d185667b6163",
+        "Category":"Nacional",
+        "Tags":["Cosmovisión"]
+    },
+
+    {
+        "Title":"Canal Trece",
+        "ID":"SH000000000098",
+        "Description":"Canal Trece es un canal de televisión abierta colombiano de cobertura regional, con programación musical y cultural para los jóvenes. Fue lanzado en 1998 como Teveandina por los gobiernos de 14 departamentos del país.",
+        "StreamFormat":"hls",
+        "Background":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/trece-1920x1080-c-1.jpg",
+        "Poster":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/canaltrece-262x147-c-1.png",
+        "URL":"https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8",
+        "GUID":"3e8f82f92c1bf2b144cd7a3d6d989e72",
+        "Category":"Nacional",
+        "Tags":["Canal Trece"]
+    },
+
+    {
+        "Title":"NHK World",
+        "ID":"SH000000000072",
+        "Description":"Servicio internacional de radio y televisión de la NHK única radiotelevisión pública de Japón.",
+        "StreamFormat":"hls",
+        "Background":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/nhk-1920x1080-c-1.jpg",
+        "Poster":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/nhk-262x147-c-1.png",
+        "URL":"https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8",
+        "GUID":"efa473ca15c214d299d5e22afbd60685",
+        "Category":"Internacional",
+        "Tags":["NHK World"]
+    },
+
+    {
+        "Title":"rtve 24h",
+        "ID":"SH000000000083",
+        "Description":"24 Horas es un canal de televisión en abierto español de noticias, propiedad de Televisión Española. Su programación se basa en noticias, debates, retransmisiones en directo y otros espacios periodísticos culturales y de actualidad, que se emiten en horario continuado durante el día.",
+        "StreamFormat":"hls",
+        "Background":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/24h-1920x1080-c-1.jpg",
+        "Poster":"https://tv.merakweb.co/tv/wp-content/uploads/2020/09/rtve-262x147-c-1.png",
+        "URL":"https://rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8",
+        "GUID":"5cf4fa659a3cab40c59018bd9d9a1327",
+        "Category":"Internacional",
+        "Tags":["rtve 24h"] 
+    }
+
+]
