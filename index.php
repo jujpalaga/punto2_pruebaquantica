@@ -81,12 +81,10 @@ $json_data = $master->get_all_data();
                             <div class="d-flex justify-content-between">
                                 <div class="card-title col-auto flex-shrink-1 flex-grow-1">PRUEBA CANALES DE TELEVISIÓN</div>
                                 <div id = "container">
-                                    <input type="radio" name="filtro" id="$data->Title" checked="yes">
-                                    <label for="Title">Titulos</label>
-
-                                    <input type="radio" name="filtro" id="$data->Description" checked="yes">
-                                    <label for="Description">Descripcion</label>
-
+                                   <div class = "mb-3">
+                                        <label class="form-label">Nombre de canal</label>
+                                        <input type="text" class="form-control" id="filtro" name="busqueda" value="<?php echo $_POST["$data->Title"]?>" >
+                                    </div>
                                 </div>
                             </div>
                         </div>
